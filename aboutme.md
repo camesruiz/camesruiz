@@ -1,16 +1,13 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Welcome! Just let me tell you who I am...
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Camilo Ruiz, Electronics Engineer from the [*Universidad Distrital Francisco José de Caldas*](https://www.udistrital.edu.co) in Bogotá, Colombia. Musician, teacher, traveler, frustrated photographer and a Aspiring Data Scientist.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+As a fresh graduated engineer, the need to be always updated on where this always changing world was goint to was key. As curiosity made me explore on how technology is improving every day to make life a bit easier to live, I decided to go deeper in this long but exciting path called Machine Learning and Data Science.
 
-What else do you need?
+I realised how important it's the fact of not justget information but understand it, translate it and make it useful and in some way contribute to make this worlda better place to live.
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Welcome to my page! This is my journey.
